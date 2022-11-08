@@ -1,5 +1,5 @@
 ---
-permalink: /introduction.md
+permalink: /introduction
 layout: page
 title: Introduction
 ---

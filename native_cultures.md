@@ -1,5 +1,5 @@
 ---
-permalink: /native_cultures.md
+permalink: /native_cultures
 layout: page
 title: "Native Cultures"
 ---

@@ -1,5 +1,5 @@
 ---
-permalink: /seminal_work.md
+permalink: /seminal_work
 layout: page
 title: "Seminal Work"
 ---
