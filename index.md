@@ -18,7 +18,7 @@ Although the popularity of this way of eating is increasing, along with the numb
 ## Contents
 
 - [Introduction](introduction)
-- [Seminal Works](seminal-work)
+- [Seminal Work](seminal_work)
 - [Evolution, Taxonomy and Anatomy](evolution)
 - [History and Native Cultures](native_cultures)
 - [Plant Toxins](plant_toxins)
