@@ -10,7 +10,6 @@ list_title: Posts
 I have intentionally left out direct scientific references with the hope of providing a layer of abstraction that allows information on topics to be more easily digested, referred to and shared with friends, colleagues and curious on lookers.
 Please let me know if I have made mistakes or missed out any valuable resources.
 
-## Caveats
 Although the popularity of this way of eating is increasing, along with the number of thriving long term adherents, the realm of Carnivory is for the most part still a black box. The vast majority of studies and observational data is on people who adhere to more standard higher carb diets which can’t always be extrapolated to ketogenic and zero carb. Although based on food as old mankind, the carnivore diet is somewhat a pioneering approach to health and nutrition. Additionally, there may be conflicting and contradicting points of view within the below pages. Try not to get mired in minutiae, the most powerful and liberating benefit of the carnivore diet is its simplicity. Everything you will learn will fundamentally distil down into eat meat, drink water.
 
 [PDF Version](Carnivore_Field_Manual.pdf)

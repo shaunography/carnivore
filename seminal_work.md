@@ -22,7 +22,10 @@ Guy Richard Godfrey Mackarness (17 August 1916 - 18 March 1996) was a British ph
 
 ### Vilhjalmur Stefansson
 #### [The Fat of the Land](https://justmeat.co/docs/the-fat-of-the-land-vilhjalmur-stefansson.epub) (1960) (EPUB)
-Vilhjalmur Stefansson (November 3, 1879 – August 26, 1962), an anthropologist and arctic traveller, After living with the Inuit for 4 years Stefansson was convinced that the Arctic Inuit people’s fat and meat-based diet was a nutritionally complete and healthy diet. To prove this, he and a fellow- his fellow explorer Karsten Anderson took part in a year-long study where they ate only animal fat and meat, without vitamin or mineral supplements. At the end of the year there were no signs of vitamin deficiencies or kidney problems in the subjects; they did not suffer fatigue, they were mentally alert, physically active, and showed no specific physical changes in any system of the body - [Prolonged Meat Diets with a Study of Kidney Function and Ketosis](http://m.jbc.org/content/87/3/651.full.pdf)
+Vilhjalmur Stefansson (November 3, 1879 – August 26, 1962), an anthropologist and arctic traveller, After living with the Inuit for 4 years Stefansson was convinced that the Arctic Inuit people’s fat and meat-based diet was a nutritionally complete and healthy diet. To prove this, he and a fellow- his fellow explorer Karsten Anderson took part in a year-long study where they ate only animal fat and meat, without vitamin or mineral supplements. At the end of the year there were no signs of vitamin deficiencies or kidney problems in the subjects; they did not suffer fatigue, they were mentally alert, physically active, and showed no specific physical changes in any system of the body.
+- [Prolonged Meat Diets with a Study of Kidney Function and Ketosis](http://m.jbc.org/content/87/3/651.full.pdf)
+- [Normal Beliefs About Varied Diets](https://www.drbass.com/stefansson1.html)
+- [Adventures in Diet By Vilhjalmur Stefansson](https://www.drbass.com/stefansson2.html)
 
 ### Blake Donaldson
 #### [Strong Medicine](https://justmeat.co/docs/strong-medicine-blake-donaldson.pdf) (1962) (PDF)
