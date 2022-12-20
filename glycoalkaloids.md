@@ -23,6 +23,6 @@ Glycoalkaloids are only found in Nightshades, these include:
 ### Resources
 - [Nightshades](https://www.diagnosisdiet.com/full-article/nightshades) (Article) - Georgia Ede
 - [Health Dangers Of Glycoalkaloids](https://www.kevinstock.io/health/health-dangers-of-glycoalkaloids/) (Article) – Kevin Stock
-- [What are Nightshades](https://www.thepaleomom.com/what-are-nightshades/) ( Article) – The Paleo Mom
+- [What are Nightshades](https://www.thepaleomom.com/what-are-nightshades/) (Article) – The Paleo Mom
 - [The Whys Behind the AutoImmune Protocol: Nightshades](https://www.thepaleomom.com/the-whys-behind-autoimmune-protocol/) (Article) – The Paleo Mom
 

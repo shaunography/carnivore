@@ -43,3 +43,4 @@ Analysis of ancient collagen samples from Neanderthals and Homo Sapiens from 30 
 - Are We Meat Eaters or Vegetarians? Parts [one](https://www.proteinpower.com/are-we-meat-eaters-or-vegetarians-part-i/), [two](https://www.proteinpower.com/are-we-meat-eaters-or-vegetarians-part-ii/) and [three](https://www.proteinpower.com/are-we-meat-eaters-or-vegetarians-part-iii/) (Articles)- Dr Michael Eades
 - [Your Brain On Meat Series](https://www.kevinstock.io/health/your-brain-on-meat/) (Article) – Kevin Stock
 - [The Keto Diet and Human Evolution](https://www.doctorkiltz.com/keto-diet-and-evolution/) (Article) - Liam McAuliffe
+- [Can Humans Digest Meat?](http://roarofwolverine.com/archives/412) (Article) – Roar Of The Wolverine
