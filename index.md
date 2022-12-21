@@ -32,5 +32,5 @@ Although the popularity of this way of eating is increasing, along with the numb
     - [Salicylates (Salicylic acid)](salicylates)
     - [More](more)
 - [Red Meat and Saturated Fat](red_meat)
-- [veganism](veganism)
+- [Veganism](veganism)
 

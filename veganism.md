@@ -6,9 +6,9 @@ title: "Veganism"
 ### Resources
 - [Is Veganuary Healthy?](https://www.zoeharcombe.com/2020/01/is-veganuary-healthy/) (Article) – Zoe Harcombe
 - [The Carnivore Diet is more Vegan than a Vegan Diet](https://www.carnivoreisvegan.com/carnivore-diet-is-vegan/) (Article) – Carnivore is Vegan
-- Vegetarian Myth, The: Food, Justice and Sustainability (book) - Lierre Keith
-- The Great Plant-Based Con: Why Eating a Plants-Only Diet Won't Improve Your Health or Save the Planet (book) - Jayne Buxton
-- Sacred Cow: The Case for (Better) Meat (book) - Diana Rodgers, Robb Wolf
+- Vegetarian Myth, The: Food, Justice and Sustainability (Book) - Lierre Keith
+- The Great Plant-Based Con: Why Eating a Plants-Only Diet Won't Improve Your Health or Save the Planet (Book) - Jayne Buxton
+- Sacred Cow: The Case for (Better) Meat (Book) - Diana Rodgers, Robb Wolf
 ### Vegan Propaganda
 #### What the Health
 - [What the health a wolfs eye review](https://robbwolf.com/2017/07/03/what-the-health-a-wolfs-eye-review/) (Article) - Robb Wolf
@@ -30,7 +30,7 @@ title: "Veganism"
 - [The China Study](https://sciencebasedmedicine.org/385/) (Article) – Science-Based Medicine
 - [The China Study Revisited](https://sciencebasedmedicine.org/the-china-study-revisited/) (Article) – Science-Based Medicine
 ### Forks Over Knives
-- [Forks Ove Knives: Is the Science Legit?](https://deniseminger.com/2011/09/22/forks-over-knives-is-the-science-legit-a-review-and-critique/) (Article) – Denise Minger
+- [Forks Over Knives: Is the Science Legit?](https://deniseminger.com/2011/09/22/forks-over-knives-is-the-science-legit-a-review-and-critique/) (Article) – Denise Minger
 ### Cowspiracy
 - [A Movie Review – Cowspiracy: Truth or Propaganda?](https://lachefnet.wordpress.com/2016/07/04/la-chefs-movie-review-cowspiracy-truth-or-propaganda/) (Article) – Regenetarianism
 - [The “Cowspiracy” Conspiracy: Anti-Animal Agriculture Movie Producers Change Their Story](https://ghgguru.faculty.ucdavis.edu/2018/11/16/the-cowspiracy-conspiracy-anti-animal-agriculture-movie-producers-change-their-story/) (Article) - Frank Mitloehner
