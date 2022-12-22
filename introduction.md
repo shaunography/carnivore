@@ -7,16 +7,17 @@ The following resources aim to introduce the curious carnivore to the diet and o
 
 ### Articles
 
-- [Guide to the Carnivore Diet (Article)](https://nutrita.app/guide-to-the-carnivore-diet/) – Amber O’Hearn and Raphael Sirtoli
-- [Carnivore Diet: Why would it work? (YouTube)](https://www.youtube.com/watch?v=isIw2AN_-XU) – What I’ve Learned
-- [The ultimate 30 day guide to going carnivore (PDF)](https://meat.health/knowledge-base/the-ultimate-30-day-guide-to-going-full-carnivore-2/) - Kevin Stock
-- [Eat Meat, Not To Little, Mostly Fat (Article)](http://www.empiri.ca/p/eat-meat-not-too-little-mostly-fat.html) - Amber O’Hearn
-- [What Is Zero Carb? (Wiki)](https://www.reddit.com/r/zerocarb/wiki/faq) - Charles Washington
+- [Guide to the Carnivore Diet](https://nutrita.app/guide-to-the-carnivore-diet/) (Article) – Amber O’Hearn and Raphael Sirtoli
+- [Carnivore Diet: Why would it work?](https://www.youtube.com/watch?v=isIw2AN_-XU) (Video) – What I’ve Learned
+- [The ultimate 30 day guide to going carnivore](https://meat.health/knowledge-base/the-ultimate-30-day-guide-to-going-full-carnivore-2/) (PDF) - Kevin Stock
+- [Eat Meat, Not To Little, Mostly Fat](http://www.empiri.ca/p/eat-meat-not-too-little-mostly-fat.html) (Article) - Amber O’Hearn
+- [What Is Zero Carb?](https://www.reddit.com/r/zerocarb/wiki/faq) (Wiki) - Charles Washington
 - [Zero Carb](https://zerocarbzen.com/zero-carb/) - Zero Cab Zen
-- [Facultative Carnivore (Hypertext Book)](https://facultativecarnivore.com/design-flaws/) - Amber O'Hearn
-- [Who is a Carnivore? (Article)](http://www.empiri.ca/2019/05/who-is-carnivore-problems-of-names.html) -Amber O'Hearn
-- [The Nutritionist's Guide to the Carnivore Diet (Article)](https://nutritionwithjudy.com/nutritionists-guide-to-the-carnivore-diet-a-beginners-guide/) - Judy Cho
-- [The Zero Carb Experience (Article and PDF)](https://borgefagerli.com/the-zero-carb-experience/) - Borge Fagerli
+- [Facultative Carnivore](https://facultativecarnivore.com/design-flaws/) (Hypertext Book) - Amber O'Hearn
+- [Who is a Carnivore?](http://www.empiri.ca/2019/05/who-is-carnivore-problems-of-names.html)  (Article) -Amber O'Hearn
+- [The Nutritionist's Guide to the Carnivore Diet](https://nutritionwithjudy.com/nutritionists-guide-to-the-carnivore-diet-a-beginners-guide/)  (Article) - Judy Cho
+- [The Zero Carb Experience](https://borgefagerli.com/the-zero-carb-experience/) (Article and PDF) - Borge Fagerli
+- [The Keto Carnivore Diet: Research, Benefits, and How to](https://www.doctorkiltz.com/keto-carnivore/) (Article) - Liam McAuliffe
 
 ### books
 - Shawn Baker - The Carnivore Diet

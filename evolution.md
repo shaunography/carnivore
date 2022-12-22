@@ -32,6 +32,7 @@ Analysis of ancient collagen samples from Neanderthals and Homo Sapiens from 30 
 ### Resources
 - [The complete and unifying explanation of human evolution](https://www.paleostyle.com/?p=2212) - Miki Ben-Dor
 - [Man the Fat Hunter](https://eatmeatdrinkwater.files.wordpress.com/2015/04/man-the-fat-hunter-by-miki-ben-dor.pdf) (Paper) – Miki Ben-Dor
+- [The Lipivore: What is Fat for?](https://www.youtube.com/watch?v=xAWReEm4l0w&t=145s) (video) - Amber O'Hearn
 - [Paleopathology and the Origins of the Paleo Diet](https://www.youtube.com/watch?v=3fewDdSUSwg) (Video) - Dr. Michael Eades
 - [Meat in the human diet: An anthropological perspective](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1747-0080.2007.00194.x) (Article) – Neil Mann
 - [What did humans Evolve To Eat](https://www.kevinstock.io/health/what-did-humans-evolve-to-eat/) (Article) – Kevin Stock
@@ -44,3 +45,4 @@ Analysis of ancient collagen samples from Neanderthals and Homo Sapiens from 30 
 - [Your Brain On Meat Series](https://www.kevinstock.io/health/your-brain-on-meat/) (Article) – Kevin Stock
 - [The Keto Diet and Human Evolution](https://www.doctorkiltz.com/keto-diet-and-evolution/) (Article) - Liam McAuliffe
 - [Can Humans Digest Meat?](http://roarofwolverine.com/archives/412) (Article) – Roar Of The Wolverine
+- [Fat of the land: What ancient bones tell us about the origin of the human diet](https://www.youtube.com/watch?v=iSCV_XFcVPU) (Video) - Jess Thompson
