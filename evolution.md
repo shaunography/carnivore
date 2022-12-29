@@ -46,3 +46,4 @@ Analysis of ancient collagen samples from Neanderthals and Homo Sapiens from 30 
 - [The Keto Diet and Human Evolution](https://www.doctorkiltz.com/keto-diet-and-evolution/) (Article) - Liam McAuliffe
 - [Can Humans Digest Meat?](http://roarofwolverine.com/archives/412) (Article) – Roar Of The Wolverine
 - [Fat of the land: What ancient bones tell us about the origin of the human diet](https://www.youtube.com/watch?v=iSCV_XFcVPU) (Video) - Jess Thompson
+- [Animal source foods in historical diets](https://aleph-2020.blogspot.com/2020/04/the-role-of-asfs-in-historical-diets.html) (Article) - ALEPH2020
